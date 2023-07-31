@@ -1,0 +1,11 @@
+name: aughhhh
+displayName: 《整活像素》
+author: 猫猫贴贴
+main: uwu.UwuMod
+description: "这个mod有很多整活の东西\n[#FFFFFF]特别感谢:\n[#FFFFFF]GodlenGlow
+[red]警告：这个mod有很多破坏平衡性的内容，请自行取舍\n
+[yellow]by anuke\n"
+version: beta0.01
+minGameVersion: 141
+java: true
+//license: MIT LICENSE
